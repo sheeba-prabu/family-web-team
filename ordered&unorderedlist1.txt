@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>House</title>
+</head>
+<body>
+<h1>The family has the following<h1>
+<ol start="1">
+<li>OWN HOUSE</li>
+</ol>
+<ul type="Square">
+<li>living areas 5400 square feet</li>
+<li>seperate bunglow</li>
+<li>Car shed</li>
+</ul>
+<ol start="2">
+<ul type="Tringale">
+<li>pagani zonda-revolution</li>
+<li>Regstrationn Number TN 38 R 17</li>
+<li>2020 model</li>
+</ul>
+<ol start="3">
+<ul type="Square">
+<li>FARM</li>
+<li>50 acres coconut groves</li>
+<li>100 paddy </li>
+<li>50 sugarcane groves</li>
+</ul>
+</html>
+
+
+
+
+
