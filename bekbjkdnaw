@@ -1,0 +1,25 @@
+<html>
+<head>
+<style>
+body {
+  background-color: magenta;
+}
+
+h1 {
+  color: green;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 50px;
+}
+</style>
+</head>
+<body>
+
+<h1>best football player of the year</h1>
+<p>ronaldo,neymar.</p>
+
+</body>
+</html>
